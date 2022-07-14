@@ -1,1 +1,3 @@
 # project2
+
+This project lays emphasis in data gathering and wrangling. It comprises of three datasets each gathered via different methods. The twitter-archive-enhanced.csv was gathered by reading a CSV file using pandas read_csv method of the pandas module. The image_prediction.tsv file was gathered via web_scrapping a website page for the file using the request module and other functions. The twitter-json.txt file was gathered via tweepy module through Twitter's API. The wrangling process and data analysis summary are covered in the wrangle_repirt and act_report file respectively attached to this project work. The code analysis is contained in the file wrangle_act.
